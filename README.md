@@ -1,5 +1,4 @@
 ﻿# Projeto final - Modelo de Classificação para diabetes
----
 
 Seja muito bem-vindo(a) ao repositório modelo-classificação-pima-projeto-final
 
@@ -13,7 +12,6 @@ O objetivo, é criar um modelo de Aprendizado Supervisionado para classificaçã
 As aulas do curso são feitas em formato de projeto. O tema é doenças cardíacas, portanto é usado um dataset próprio.
 
 ## Sobre o dataset:
----
 
 O dataset usado é [Diabetes Dataset - Pima Indians](https://www.kaggle.com/datasets/nancyalaswad90/review/data), disponível na plataforma do Kaggle.
 
@@ -32,7 +30,6 @@ Este possui `768 registros` e `9 atributos`:
 | **Outcome** | Diagnóstico (`0` é negativo e `1`, positivo)| `int64` |
 
 ## Tecnologias utilizadas
----
 
 | Nome | Descrição | Tecnologia de Origem|
 | :---: | :---: | :---: |
@@ -46,7 +43,6 @@ Este possui `768 registros` e `9 atributos`:
 | **Git** | Sistema de versionamento de código, utilizado para enviar e versionar arquivos no repositório do GitHub | `Git` |
 
 ## Resultados do Modelo:
----
 
 ### Matriz de Confusão
 
@@ -74,7 +70,6 @@ Este possui `768 registros` e `9 atributos`:
 1. A acurácia total do modelo é 0.71.
 
 ## Conclusões:
----
 
 Trabalhar com Machine Learning é muito interessante. Contudo requer grandes conhecimentos em programação especializada, matemática e estatística.
 
