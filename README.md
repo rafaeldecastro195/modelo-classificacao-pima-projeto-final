@@ -12,8 +12,6 @@ O objetivo, é criar um modelo de Aprendizado Supervisionado para classificaçã
 
 As aulas do curso são feitas em formato de projeto. O tema é doenças cardíacas, portanto é usado um dataset próprio.
 
-Todos os conhecimentos adquiridos, tanto nas aulas, quanto na prática, estão sendo aplicados em um outro projeto meu [Aplicação web para Pré-Diagnóstico de Diabetes em Homens e Mulheres usando Aprendizado Supervisionado](https://github.com/rafaeldecastro195/modelo-classificacao-diabetes/blob/main/README.md)
-
 ## Sobre o dataset:
 ---
 
