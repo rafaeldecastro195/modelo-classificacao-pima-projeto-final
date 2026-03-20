@@ -4,7 +4,7 @@
 Seja muito bem-vindo(a) ao repositório modelo-classificação-pima-projeto-final
 
 ## Sobre o projeto:
----
+
 
 Este projeto é o trabalho final do curso [Scikit-Learn For Machine Learning Classification Problems](https://www.coursera.org/projects/scikit-learn-for-machine-learning-classification-problems), ministrado por Ryan Ahmed.
 
