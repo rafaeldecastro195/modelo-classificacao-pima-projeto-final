@@ -17,7 +17,7 @@ Todos os conhecimentos adquiridos, tanto nas aulas, quanto na prática, estão s
 ## Sobre o dataset:
 ---
 
-O dataset usado é `[Diabetes Dataset - Pima Indians](https://www.kaggle.com/datasets/nancyalaswad90/review/data)`, disponível na plataforma do Kaggle.
+O dataset usado é [Diabetes Dataset - Pima Indians](https://www.kaggle.com/datasets/nancyalaswad90/review/data), disponível na plataforma do Kaggle.
 
 Este possui `768 registros` e `9 atributos`:
 
