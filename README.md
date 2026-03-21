@@ -67,7 +67,7 @@ Este possui `768 registros` e `9 atributos`:
 | **Support** | Quantidade real de ocorrências no conjunto de teste | 99 | 55 |
 
 ***Notas***:
-1. A acurácia total do modelo é 0.71.
+1. A acurácia total do modelo é `0.71` (71%).
 
 ## Conclusões:
 
