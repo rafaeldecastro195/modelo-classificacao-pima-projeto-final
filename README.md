@@ -7,7 +7,7 @@ Seja muito bem-vindo(a) ao repositório modelo-classificação-pima-projeto-fina
 
 Este projeto é o trabalho final do curso [Scikit-Learn For Machine Learning Classification Problems](https://www.coursera.org/projects/scikit-learn-for-machine-learning-classification-problems), ministrado por Ryan Ahmed.
 
-O objetivo, é criar um modelo de Aprendizado Supervisionado para classificação, que consiga apontar a positividade ou negatividade de diabetes para mulheres indianas da etnia Pima.
+O objetivo, é criar um modelo de Aprendizado Supervisionado para classificação, que consiga apontar a positividade ou negatividade de diabetes para mulheres indígenas da etnia Pima.
 
 As aulas do curso são feitas em formato de projeto. O tema é doenças cardíacas, portanto é usado um dataset próprio.
 
